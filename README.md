@@ -17,5 +17,6 @@
 <li>Cliniro will provide a dashboard that will show data visualizations giving insights into his clinic data.</li>
 
 <li>This portal will have three sections- Doctor, Patient, and Assistant</li>
+<li> Link to our portal : https://cliniro.000webhostapp.com/index.php</li>
 </ul>
 <p>
